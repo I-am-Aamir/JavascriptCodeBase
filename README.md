@@ -1,8 +1,4 @@
-# JavascriptCodeBase
-Javascript Work:
-Javascript Code to test WeekEnd
-Javascript Code to find largest of number
-Javascript Code to find duplicate values
-Javascript Code to convert each first letter to upper case
-Javascript Code to find the lowest value
-Javascript Code to work on Object
+- You will need to have Node installed to start this environment. If you are not sure if you have Node installed run `node -v` in your terminal. If you do not see a version number output, install Node before moving on.
+- Install light-server locally and save it to your development environment by running `npm install lite-server --save-dev` in your terminal.
+- Run `npm run start` in your terminal to start the server.
+- Your browser will open at `localhost:3000`.
